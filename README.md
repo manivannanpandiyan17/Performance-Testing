@@ -13,10 +13,11 @@ Under Reports folder, Test report will be generated in the HTML Format after eac
 
 # Execute test
 
-To execute the test from JMETER, import the jmx file and run directly. Response can be validated in the JSON response
+To execute the test from JMETER, import the jmx file and run directly. Response code and Reponse (i.e. JSON Format) should be validated
 
 To execute in cmd, run the following cmd 
 jmeter -n -t script path(i.e. Path where the jmx file is available -l Path name for the  CSV file -e -o directory for generating html report
+
 e.g. jmeter -n -t E:\Softwares\apache-jmeter-5.1.1\bin\Scripts\ApiPerformanceTests.jmx -l E:\Softwares\apache-jmeter-5.1.1\bin\Scripts\Reports\TestResults.csv -e -o E:\Softwares\apache-jmeter-5.1.1\bin\Scripts\Reports
 
 Report will be generated and all graphs are available in the reports folder
