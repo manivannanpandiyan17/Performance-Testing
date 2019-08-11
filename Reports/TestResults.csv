@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1565484693844,4922,Get Latitude and Longitude,200,OK,Users 1-1,text,true,,1421,199,1,1,https://api.weatherbit.io/v2.0/current?lat=40.730610&lon=-73.935242&key=39214c3cb773441680c7e26fc34d02c6,4922,0,3904
+1565484698774,3391,Get Postal Code,200,OK,Users 1-1,text,true,,11336,195,1,1,https://api.weatherbit.io/v2.0/forecast/daily?postal_code=28546&key=39214c3cb773441680c7e26fc34d02c6,3204,0,2179
+1565484702170,3784,Get Latitude and Longitude,200,OK,Users 1-1,text,true,,1420,199,1,1,https://api.weatherbit.io/v2.0/current?lat=40.730610&lon=-73.935242&key=39214c3cb773441680c7e26fc34d02c6,3784,0,3435
+1565484705955,5739,Get Postal Code,200,OK,Users 1-1,text,true,,11336,195,1,1,https://api.weatherbit.io/v2.0/forecast/daily?postal_code=28546&key=39214c3cb773441680c7e26fc34d02c6,5213,0,1696
+1565484711697,4923,Get Latitude and Longitude,200,OK,Users 1-1,text,true,,1420,199,1,1,https://api.weatherbit.io/v2.0/current?lat=40.730610&lon=-73.935242&key=39214c3cb773441680c7e26fc34d02c6,4923,0,3079
+1565484716621,5485,Get Postal Code,200,OK,Users 1-1,text,true,,11336,195,1,1,https://api.weatherbit.io/v2.0/forecast/daily?postal_code=28546&key=39214c3cb773441680c7e26fc34d02c6,5267,0,4970
+1565484722112,1676,Get Latitude and Longitude,200,OK,Users 1-1,text,true,,1420,199,1,1,https://api.weatherbit.io/v2.0/current?lat=40.730610&lon=-73.935242&key=39214c3cb773441680c7e26fc34d02c6,1676,0,1266
+1565484723789,558,Get Postal Code,200,OK,Users 1-1,text,true,,11336,195,1,1,https://api.weatherbit.io/v2.0/forecast/daily?postal_code=28546&key=39214c3cb773441680c7e26fc34d02c6,408,0,0
+1565484724350,1384,Get Latitude and Longitude,200,OK,Users 1-1,text,true,,1420,199,1,1,https://api.weatherbit.io/v2.0/current?lat=40.730610&lon=-73.935242&key=39214c3cb773441680c7e26fc34d02c6,1384,0,1077
+1565484725735,615,Get Postal Code,200,OK,Users 1-1,text,true,,11336,195,1,1,https://api.weatherbit.io/v2.0/forecast/daily?postal_code=28546&key=39214c3cb773441680c7e26fc34d02c6,306,0,0
+1565484726352,1225,Get Latitude and Longitude,200,OK,Users 1-1,text,true,,1420,199,1,1,https://api.weatherbit.io/v2.0/current?lat=40.730610&lon=-73.935242&key=39214c3cb773441680c7e26fc34d02c6,1224,0,917
+1565484727577,581,Get Postal Code,200,OK,Users 1-1,text,true,,11336,195,1,1,https://api.weatherbit.io/v2.0/forecast/daily?postal_code=28546&key=39214c3cb773441680c7e26fc34d02c6,511,0,0
+1565484728165,1357,Get Latitude and Longitude,200,OK,Users 1-1,text,true,,1420,199,1,1,https://api.weatherbit.io/v2.0/current?lat=40.730610&lon=-73.935242&key=39214c3cb773441680c7e26fc34d02c6,1357,0,947
+1565484729523,576,Get Postal Code,200,OK,Users 1-1,text,true,,11336,195,1,1,https://api.weatherbit.io/v2.0/forecast/daily?postal_code=28546&key=39214c3cb773441680c7e26fc34d02c6,410,0,0
+1565484730101,1469,Get Latitude and Longitude,200,OK,Users 1-1,text,true,,1420,199,1,1,https://api.weatherbit.io/v2.0/current?lat=40.730610&lon=-73.935242&key=39214c3cb773441680c7e26fc34d02c6,1469,0,957
+1565484731571,567,Get Postal Code,200,OK,Users 1-1,text,true,,11336,195,1,1,https://api.weatherbit.io/v2.0/forecast/daily?postal_code=28546&key=39214c3cb773441680c7e26fc34d02c6,409,0,0
+1565484732140,1478,Get Latitude and Longitude,200,OK,Users 1-1,text,true,,1420,199,1,1,https://api.weatherbit.io/v2.0/current?lat=40.730610&lon=-73.935242&key=39214c3cb773441680c7e26fc34d02c6,1478,0,1068
+1565484733619,600,Get Postal Code,200,OK,Users 1-1,text,true,,11336,195,1,1,https://api.weatherbit.io/v2.0/forecast/daily?postal_code=28546&key=39214c3cb773441680c7e26fc34d02c6,409,0,0
+1565484734221,1138,Get Latitude and Longitude,200,OK,Users 1-1,text,true,,1420,199,1,1,https://api.weatherbit.io/v2.0/current?lat=40.730610&lon=-73.935242&key=39214c3cb773441680c7e26fc34d02c6,1138,0,831
+1565484735360,503,Get Postal Code,200,OK,Users 1-1,text,true,,11336,195,1,1,https://api.weatherbit.io/v2.0/forecast/daily?postal_code=28546&key=39214c3cb773441680c7e26fc34d02c6,306,0,0

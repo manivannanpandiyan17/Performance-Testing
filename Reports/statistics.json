@@ -1,0 +1,47 @@
+{
+  "Get Latitude and Longitude" : {
+    "transaction" : "Get Latitude and Longitude",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2335.6000000000004,
+    "minResTime" : 1138.0,
+    "maxResTime" : 4923.0,
+    "pct1ResTime" : 4922.9,
+    "pct2ResTime" : 4923.0,
+    "pct3ResTime" : 4923.0,
+    "throughput" : 0.24087679152113695,
+    "receivedKBytesPerSec" : 0.3340518863663736,
+    "sentKBytesPerSec" : 0.046811017102252196
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 20,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2098.55,
+    "minResTime" : 503.0,
+    "maxResTime" : 5739.0,
+    "pct1ResTime" : 5428.800000000001,
+    "pct2ResTime" : 5726.3,
+    "pct3ResTime" : 5739.0,
+    "throughput" : 0.4759751540969561,
+    "receivedKBytesPerSec" : 2.9646419253789955,
+    "sentKBytesPerSec" : 0.09156943882529332
+  },
+  "Get Postal Code" : {
+    "transaction" : "Get Postal Code",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1861.5,
+    "minResTime" : 503.0,
+    "maxResTime" : 5739.0,
+    "pct1ResTime" : 5713.6,
+    "pct2ResTime" : 5739.0,
+    "pct3ResTime" : 5739.0,
+    "throughput" : 0.2696217207258217,
+    "receivedKBytesPerSec" : 2.984796705222573,
+    "sentKBytesPerSec" : 0.051343980021030494
+  }
+}
