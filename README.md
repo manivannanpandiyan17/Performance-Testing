@@ -3,7 +3,7 @@ Assessment for Performance Testing
 
 Performed the load test using JMETER
 
-Under test script folder, Test script (i.e. JMX) and Test data (i.e. CSV format) are available
+Under the Scripts folder, Test script (i.e. JMX) and Test data (i.e. CSV format) are available
 
 Configured to run with 1 user hitting the application 10 times in 1 minute duration 
 
